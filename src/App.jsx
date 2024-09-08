@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import ProductList from './ProductList';
 import './App.css';
@@ -18,9 +17,9 @@ function App() {
         <div className="background-image"></div>
         <div className="content">
          <div className="landing_content">
-         <h1>Welcome To Paradise Nursery</h1>
+         <h1>Welcome To Joey's Plants</h1>
           <div className="divider"></div>
-          <p>Where Green Meets Serenity</p>
+          <p>Anything Under the Sun</p>
          
           <button className="get-started-button" onClick={handleGetStartedClick}>
             Get Started
